@@ -1,5 +1,6 @@
 # solana-listing-bot
 LISTING BOT
+current : eden and alpha only
 
 ## Install
 1. Clone the repo
