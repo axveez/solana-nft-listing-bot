@@ -1,5 +1,5 @@
-# solana-listing-bot
-LISTING BOT
+# solana-listing-bot-NFT
+LISTING BOT -NFT
 current : eden and alpha only
 
 ## Install
