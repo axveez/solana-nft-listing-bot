@@ -5,7 +5,7 @@ current : eden and alpha only
 ## Install
 1. Clone the repo
    ```sh
-   git clone https://github.com/axveez/solana-listing-bot.git
+   git clone https://github.com/axveez/solana-nft-listing-bot.git
    ```
 2. Install NPM packages
    ```sh
